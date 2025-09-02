@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/93336301?v=4" width="150" style="border-radius:50%" />
   <h1>Hey, I'm <span style="color:#4A90E2;">fowntain</span> 👋</h1>
   <h3>Project Manager • Frontend Enthusiast • Soccer Player</h3>
 </div>
