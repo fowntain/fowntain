@@ -1,12 +1,11 @@
 <div align="center">
-  <h1>hey, I'm <span style="color:#4A90E2;">fowntain</span></h1>
-  <h3>project Manager • frontend enthusiast • soccer player</h3>
+  <h1>hey, i'm <span style="color:#4A90E2;">fowntain</span></h1>
+  <h3>project manager • frontend enthusiast • soccer player</h3>
 </div>
 
 ### 📌 projects  
-- 🔗 [Doge Unblocker V4](https://github.com/DogeNetwork/v4)  
+- 🔗 [Doge Unblocker V5](https://github.com/DogeNetwork/dogeub)  
 - 📦 [Polaris (Archived)](https://github.com/Skoolgq/Polaris)  
-- 🌐 [Bloxstrap Website V2](https://github.com/fowntain/bloxstrap-website)  
 - 💼 [Portfolio / Commissions Website](https://fowntain.me)  
 
 ---
