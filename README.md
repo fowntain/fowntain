@@ -1,13 +1,19 @@
 <div align="center">
   <h1>hey, i'm <span style="color:#4A90E2;">fowntain</span></h1>
-  <h3>project manager • frontend enthusiast • soccer player</h3>
+  <h3>project manager • frontend enthusiast • certified python programmer</h3>
 </div>
 
 ### 📌 projects  
-- 🔗 [Doge Unblocker V5](https://github.com/DogeNetwork/dogeub)
+- 🔗 [DogeUB V5](https://github.com/DogeNetwork/dogeub)  
+Web proxy with a sleek frontend, written in React
+- 👤 [Roblox Avatar Rotator](https://github.com/fowntain/roblox-avatar-rotator)  
+Simple python-based tool to change your Roblox avatar every few seconds with support for preset outfits
 - 🔗 [Deltahack](https://github.com/fowntain/deltahack)  
+AI-based Deltamath cheat, experimental  
 - 📦 [Polaris (Archived)](https://github.com/Skoolgq/Polaris)  
+Once one of the largest web proxy sites, now is deprecated and succeeded by DogeUB V5
 - 💼 [Portfolio / Commissions Website](https://fowntain.me)  
+Clean commissions website where I'll make a site for ya
 
 ---
 
@@ -22,16 +28,6 @@
   <a href="https://www.youtube.com/@fowntain"><img src="https://img.shields.io/badge/YouTube-%23EE4831.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </div>
 
----
-
-### 📊 stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fowntain&show_icons=true&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fowntain&layout=compact&hide_border=true" height="160"/>
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fowntain&style=flat-square" />
