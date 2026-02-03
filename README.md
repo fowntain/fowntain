@@ -1,6 +1,6 @@
 <div align="center">
   <h1>hey, i'm <span style="color:#4A90E2;">fowntain</span></h1>
-  <h3>project manager • frontend enthusiast • certified python programmer</h3>
+  <h3>project manager • frontend enthusiast • 2x certified python programmer</h3>
 </div>
 
 ### 📌 projects  
